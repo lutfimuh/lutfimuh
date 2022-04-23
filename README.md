@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Thank you for visiting my Github
 
 - 🔭 I’m currently working on SolveEducation! as R&D Manager
 - 🌱 I’m currently learning Data Science as part of my personal development
