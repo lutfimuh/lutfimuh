@@ -2,7 +2,7 @@
 
 Thank you for visiting my Github
 
-- 🔭 I’m currently working on SolveEducation! as R&D Manager
+- 🔭 I’m currently working on SolveEducation! as R&D Manager (previously worked on Zenius and Nielsen Indonesia)
 - 🌱 I’m currently learning Data Science as part of my personal development
 - 💬 Ask me about working in Edtech and in a fast moving Startup environment
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-lutfi-5b783b12b/)
