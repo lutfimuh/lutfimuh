@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on SolveEducation! as R&D Manager
+- 🌱 I’m currently learning Data Science as part of my personal development
+- 💬 Ask me about working in Edtech and in a fast moving Startup environment
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-lutfi-5b783b12b/)
+- ⚡ Fun fact: Graduated from ITB from Engineering Management major 2012, I was alumni of AFS-YES student exchange to USA in 2011
+
 <!--
 **lutfimuh/lutfimuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
